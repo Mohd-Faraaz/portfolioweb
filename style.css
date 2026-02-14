@@ -1,0 +1,64 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Profile Image Box */
+.box-101{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+/* About Section */
+.box-102{
+    display: inline-block;
+    border: 5px solid black;
+    border-radius: 15px;
+    width: 500px;
+    padding: 20px;
+    margin: 20px;
+    vertical-align: top;
+}
+
+/* Projects Section */
+.box-103{
+    display: inline-block;
+    border: 5px solid black;
+    border-radius: 15px;
+    width: 500px;
+    padding: 20px;
+    margin: 20px;
+    vertical-align: top;
+}
+
+/* Contact Section */
+.box-104{
+    width: 80%;
+    background-color: #d3d3d3;
+    border: 2px solid black;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Table Styling */
+table{
+    width: 100%;
+    text-align: left;
+}
+
+th{
+    padding: 5px;
+}
+
+td{
+    padding: 5px;
+}
+
+/* Remove inline paragraph rule */
+p{
+    margin: 10px 0;
+}
